@@ -1,2 +1,16 @@
-# design-decisions
-design-decisions
+# 設計決策
+
+用於記錄各種 Fingerstyle Taiwan 專案設計決策以供公眾參考的地方。
+
+## 過程 - 公開討論
+
+1. 通過填寫 [模板](TEMPLATE.md) 並將其保存為唯一名稱來創建Pull Request。
+2. 討論
+3. 記錄支持和反對的論據
+4. 記錄決定
+5. 合併拉取請求
+
+## 流程 - 記錄當前決策
+
+1. 寫下來
+2. 發布它
